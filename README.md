@@ -1,5 +1,5 @@
 # Defacer
-Simple Defacer Script
+Simple Defacer Script, diedit oleh Putra Irvan, tolong pergunakan dengan baik dan bijak.
 
 ---
 
