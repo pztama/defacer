@@ -3,13 +3,6 @@ Simple Defacer Script, diedit oleh Putra Irvan, tolong pergunakan dengan baik da
 
 ---
 
-[![build status][build-badge]][build]
-[![code coverage][coverage-badge]][coverage]
-[![npm version][version-badge]][package]
-[![apache license][license-badge]][license]
-
----
-
 Cara pasang (di hosting) :
 1. Upload di hosting (public_html),
 2. Extract berkas tersebut,
