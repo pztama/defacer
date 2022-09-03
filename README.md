@@ -3,6 +3,10 @@ Simple Defacer Script, diedit oleh Putra Irvan, tolong pergunakan dengan baik da
 
 ---
 
+![image](https://user-images.githubusercontent.com/112737667/188251170-39d1c535-9710-49a1-b97b-d48409ebf9bb.png)
+
+---
+
 Cara pasang (di hosting) :
 1. Upload di hosting (public_html),
 2. Extract berkas tersebut,
