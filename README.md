@@ -11,8 +11,8 @@ Cara pasang (di hosting) :
 
 ---
 
-Cara pasang (di XAMPP atau WAMPP) :
-1. Upload di folder (www, sejenisnya),
+Cara pasang (di XAMPP) :
+1. Upload di folder (htdocs),
 2. Extract berkas tersebut,
 3. Edit beberapa (index.html),
 4. Selesai.
