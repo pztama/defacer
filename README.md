@@ -3,7 +3,10 @@ Simple Defacer Script, diedit oleh Putra Irvan, tolong pergunakan dengan baik da
 
 ---
 
-![image](https://user-images.githubusercontent.com/112737667/188251170-39d1c535-9710-49a1-b97b-d48409ebf9bb.png)
+[![build status][build-badge]][build]
+[![code coverage][coverage-badge]][coverage]
+[![npm version][version-badge]][package]
+[![apache license][license-badge]][license]
 
 ---
 
